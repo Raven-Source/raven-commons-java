@@ -32,7 +32,7 @@
 
         <!-- For Test -->
         <junit.version>4.13.2</junit.version>
-        <logback.version>1.2.10</logback.version>
+        <logback.version>1.2.13</logback.version>
 
     </properties>
 
